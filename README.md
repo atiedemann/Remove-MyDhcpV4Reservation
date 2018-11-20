@@ -1,13 +1,13 @@
 # Remove-MyDhcpV4Reservation
 
 ## DESCRIPTION
-This Cmdlet add an dhcp reservation on both dhcp servers
+This Cmdlet remove an dhcp reservation on defined dhcp servers
 
 ## PARAMETER ScopeID
-Defines the DHCP Scope where you want to add the reservation
+Defines the DHCP Scope where you want to remove the reservation
 
 ## PARAMETER MACAddress
-Defines the MAC Address for the new reservation
+Defines the MAC Address for that you want to remove the reservation
 
 Format:
 001122334455
